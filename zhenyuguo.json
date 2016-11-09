@@ -1,0 +1,215 @@
+[
+    {
+        "associated-people": "Sean McDirmid, Haoxiang Lin, Cheng Chen, Zhenyu Guo, Fan Yang, Xueying Guo, Mao Yang, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/zion.techreport.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/arming-cloud-services-with-task-aspects/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/arming-cloud-services-with-task-aspects/", 
+        "publish-date": "November 26, 2014", 
+        "published-in": "Microsoft Research", 
+        "title": "Arming Cloud Services with Task Aspects"
+    }, 
+    {
+        "associated-people": "Chang Liu, Jiaxing Zhang, Hucheng Zhou, Sean McDirmid, Zhenyu Guo, Thomas Moscibroda", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-8.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/automating-distributed-partial-aggregation/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/automating-distributed-partial-aggregation/", 
+        "publish-date": "November 1, 2014", 
+        "published-in": "ACM \u2013 Association for Computing Machinery", 
+        "title": "Automating Distributed Partial Aggregation", 
+        "venue": "in 5th ACM Symposium on Cloud Computing (SOCC)"
+    }, 
+    {
+        "associated-people": "Tian Xiao, Zhenyu Guo, Hucheng Zhou, Jiaxing Zhang, Xu Zhao, Chencheng Ye, Xi Wang, Wei Lin, Wenguang Chen, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cybertron.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/cybertron-pushing-the-limit-on-io-reduction-in-data-parallel-programs/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/cybertron-pushing-the-limit-on-io-reduction-in-data-parallel-programs/", 
+        "publish-date": "June 1, 2014", 
+        "published-in": "OOPSLA", 
+        "title": "Cybertron: Pushing the Limit on I/O Reduction in Data-Parallel Programs"
+    }, 
+    {
+        "associated-people": "Hai Jin, Xiaofei Liao, Jiaxing Zhang, Xuepeng Fan, Zhenyu Guo, Hucheng Zhou, Sean McDirmid, Wei Lin, Jingren Zhou, Lidong Zhou", 
+        "link": "https://www.microsoft.com/en-us/research/publication/spotting-code-optimizations-in-data-parallel-pipelines-through-periscope-3/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/spotting-code-optimizations-in-data-parallel-pipelines-through-periscope-3/", 
+        "publish-date": "May 1, 2014", 
+        "published-in": "IEEE \u2013 Institute of Electrical and Electronics Engineers", 
+        "title": "Spotting Code Optimizations in Data-Parallel Pipelines through PeriSCOPE", 
+        "venue": "in IEEE Transactions on Parallel & Distributed Systems"
+    }, 
+    {
+        "associated-people": "Tian Xiao, Jiaxing Zhang, Hucheng Zhou, Zhenyu Guo, Sean McDirmid, Wei Lin, Wenguang Chen, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icsecomp14seip-seipid15-p.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/nondeterminism-in-mapreduce-considered-harmful-an-empirical-study-on-non-commutative-aggregators-in-mapreduce-programs/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/nondeterminism-in-mapreduce-considered-harmful-an-empirical-study-on-non-commutative-aggregators-in-mapreduce-programs/", 
+        "publish-date": "April 13, 2014", 
+        "published-in": "(ICSE SEIP) Software Engineering in Practice", 
+        "title": "Nondeterminism in MapReduce Considered Harmful? An Empirical Study on Non-commutative Aggregators in MapReduce Programs"
+    }, 
+    {
+        "associated-people": "Zhenyu Guo, Chuntao Hong, Mao Yang, Lidong Zhou, Li Zhuang, Dong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ppaxos.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/rex-replication-at-the-speed-of-multi-core/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/rex-replication-at-the-speed-of-multi-core/", 
+        "publish-date": "January 1, 2014", 
+        "published-in": "EuroSys", 
+        "title": "Rex: Replication at the Speed of Multi-core", 
+        "venue": "in EuroSys '14: Proceedings of the Ninth European Conference on Computer Systems"
+    }, 
+    {
+        "associated-people": "Zhenyu Guo, Sean McDirmid, Mao Yang, Li Zhuang, Pu Zhang, Yingwei Luo, Tom Bergan, Peter Bod\u00edk, Madan Musuvathi, Zheng Zhang, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/FailureRecoveryBeEvil.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/failure-recovery-when-the-cure-is-worse-than-the-disease/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/failure-recovery-when-the-cure-is-worse-than-the-disease/", 
+        "publish-date": "May 13, 2013", 
+        "published-in": "USENIX", 
+        "title": "Failure Recovery: When the Cure Is Worse Than the Disease", 
+        "venue": "in HotOS"
+    }, 
+    {
+        "associated-people": "Chuntao Hong, Zhenyu Guo, Mao Yang, Dong Zhou, Lidong Zhou, Li Zhuang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ppaoxs-paper29.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/paxos-made-parallel/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/paxos-made-parallel/", 
+        "publish-date": "November 29, 2012", 
+        "title": "Paxos Made Parallel"
+    }, 
+    {
+        "associated-people": "Zhenyu Guo, Xuepeng Fan, Rishan Chen, Jiaxing Zhang, Sean McDirmid, Chang Liu, Wei Lin, Hucheng Zhou, Jingren Zhou, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/PeriScope.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/spotting-code-optimizations-in-data-parallel-pipelines-through-periscope-2/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/spotting-code-optimizations-in-data-parallel-pipelines-through-periscope-2/", 
+        "publish-date": "October 8, 2012", 
+        "published-in": "USENIX", 
+        "title": "Spotting Code Optimizations in Data-Parallel Pipelines through PeriSCOPE", 
+        "venue": "in OSDI"
+    }, 
+    {
+        "associated-people": "Jiaxing Zhang, Hucheng Zhou, Rishan Chen, Xuepeng Fan, Zhenyu Guo, Haoxiang Lin, Jack Y.Li, Wei Lin, Jingren Zhou, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SUDO.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/optimizing-data-shuffling-in-data-parallel-computation-by-understanding-user-defined-functions-2/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/optimizing-data-shuffling-in-data-parallel-computation-by-understanding-user-defined-functions-2/", 
+        "publish-date": "April 25, 2012", 
+        "published-in": "USENIX", 
+        "title": "Optimizing Data Shuffling in Data-Parallel Computation by Understanding User-Defined Functions", 
+        "venue": "in NSDI"
+    }, 
+    {
+        "associated-people": "Jiaxing Zhang, Hucheng Zhou, Rishan Chen, Xuepeng Fan, Zhenyu Guo, Haoxiang Lin, Jack Y. Li, Wei Lin, Jingren Zhou, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-37.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/optimizing-data-shuffling-in-data-parallel-computation-by-understanding-user-defined-functions/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/optimizing-data-shuffling-in-data-parallel-computation-by-understanding-user-defined-functions/", 
+        "publish-date": "April 1, 2012", 
+        "title": "Optimizing Data Shuffling in Data-Parallel Computation by Understanding User-Defined Functions"
+    }, 
+    {
+        "associated-people": "Zhenyu Guo, Haoxiang Lin, Mao Yang, Dong Zhou, Fan Long, Chaoqiang Deng, Changshu Liu, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/G2-cr.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/g2-a-graph-processing-system-for-diagnosing-distributed-systems/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/g2-a-graph-processing-system-for-diagnosing-distributed-systems/", 
+        "publish-date": "June 15, 2011", 
+        "published-in": "USENIX", 
+        "title": "G2: A Graph Processing System for Diagnosing Distributed Systems", 
+        "venue": "in Proceedings of the 2011 USENIX Annual Technical Conference (USENIX ATC '11)"
+    }, 
+    {
+        "associated-people": "Ming Wu, Longwen Lu, Yu Fan, Jianjun Zhao, Zheng Zhang, Cheng Zhang, Zhenyu Guo", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/apsys11-cheng-zhang.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/autolog-facing-log-redundancy-and-insufficiency/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/autolog-facing-log-redundancy-and-insufficiency/", 
+        "publish-date": "January 1, 2011", 
+        "published-in": "APSys", 
+        "title": "AutoLog: facing log redundancy and insufficiency"
+    }, 
+    {
+        "associated-people": "Ming Wu, Fan Long, Xi Wang, Zhilei Xu, Haoxiang Lin, Xuezheng Liu, Zhenyu Guo, Huayang Guo, Lidong Zhou, Zheng Zhang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/iTarget_fse2010.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/language-based-replay-via-data-flow-cut/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/language-based-replay-via-data-flow-cut/", 
+        "publish-date": "November 1, 2010", 
+        "published-in": "ACM", 
+        "title": "Language-Based Replay via Data Flow Cut", 
+        "venue": "in Proceedings of the 18th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE-18)"
+    }, 
+    {
+        "associated-people": "Bingsheng He, Mao Yang, Zhenyu Guo, Rishan Chen, Bing Su, Wei Lin, Lidong Zhou", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2009/12/socc22-he.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/comet-batched-stream-processing-in-data-intensive-distributed-computing/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/comet-batched-stream-processing-in-data-intensive-distributed-computing/", 
+        "publish-date": "December 1, 2009", 
+        "published-in": "Microsoft Research", 
+        "title": "Comet: Batched Stream Processing in Data Intensive Distributed Computing"
+    }, 
+    {
+        "associated-people": "Mao Yang, Zhenyu Guo, Wei Lin, Bing Su, Lidong Zhou, Saven He", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2009/04/hotos_wave.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/wave-computing-in-the-cloud/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/wave-computing-in-the-cloud/", 
+        "publish-date": "April 1, 2009", 
+        "published-in": "USENIX", 
+        "title": "Wave Computing in the Cloud", 
+        "venue": "in HotOS"
+    }, 
+    {
+        "associated-people": "Ruini Xue, Xuezheng Liu, Ming Wu, Zhenyu Guo, Wenguang Chen, Weimin Zheng, Zheng Zhang, Geoffrey M. Voelker", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2008/09/tr-2008-127.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/mpiwiz-subgroup-reproducible-replay-of-mpi-applications/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/mpiwiz-subgroup-reproducible-replay-of-mpi-applications/", 
+        "publish-date": "September 1, 2008", 
+        "title": "MPIWiz: Subgroup Reproducible Replay of MPI Applications"
+    }, 
+    {
+        "associated-people": "Xi Wang, Zhenyu Guo, Xuezheng Liu, Zhilei Xu, Haoxiang Lin, Xiaoge Wang, Zheng Zhang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/hang-eurosys2008.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/hang-analysis-fighting-responsiveness-bugs/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/hang-analysis-fighting-responsiveness-bugs/", 
+        "publish-date": "April 1, 2008", 
+        "published-in": "ACM", 
+        "title": "Hang analysis: Fighting responsiveness bugs", 
+        "venue": "in Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer Systems 2008"
+    }, 
+    {
+        "associated-people": "Xuezheng Liu, Zhenyu Guo, Xi Wang, Feibo Chen, Xiaochen Lian, Jian Tang, Ming Wu, M. Frans Kaashoek, Zheng Zhang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/d3s_nsdi08.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/d3s-debugging-deployed-distributed-systems/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/d3s-debugging-deployed-distributed-systems/", 
+        "publish-date": "February 1, 2008", 
+        "published-in": "NSDI", 
+        "title": "D3S: Debugging Deployed Distributed Systems"
+    }, 
+    {
+        "associated-people": "Zhenyu Guo, Xuezheng Liu, Wei Lin, Zheng Zhang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2008/01/tr-2008-02.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/towards-pragmatic-library-based-replay/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/towards-pragmatic-library-based-replay/", 
+        "publish-date": "January 1, 2008", 
+        "title": "Towards Pragmatic Library-based Replay"
+    }, 
+    {
+        "associated-people": "Zhenyu Guo, Xi Wang, Jian Tang, Xuezheng Liu, Zhilei Xu, Ming Wu, M. Frans Kaashoek, Zheng Zhang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/r2-osdi08.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/r2-an-application-level-kernel-for-record-and-replay/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/r2-an-application-level-kernel-for-record-and-replay/", 
+        "publish-date": "January 1, 2008", 
+        "published-in": "OSDI", 
+        "title": "R2: An Application-Level Kernel for Record and Replay"
+    }, 
+    {
+        "associated-people": "Xi Wang, Zhilei Xu, Xuezheng Liu, Zhenyu Guo, Xiaoge Wang, Zheng Zhang", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/region-pldi08.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/conditional-correlation-analysis-for-safe-region-based-memory-management/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/conditional-correlation-analysis-for-safe-region-based-memory-management/", 
+        "publish-date": "January 1, 2008", 
+        "published-in": "Programming Language Design and Implementation (PLDI)", 
+        "title": "Conditional Correlation Analysis for Safe Region-based Memory Management"
+    }, 
+    {
+        "associated-people": "Aimin Pan, Zheng Zhang, Zhenyu Guo", 
+        "download-link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2005/06/wids.pdf", 
+        "link": "https://www.microsoft.com/en-us/research/publication/wids-an-integrated-toolkit-for-distributed-system-development/", 
+        "publication-link": "https://www.microsoft.com/en-us/research/publication/wids-an-integrated-toolkit-for-distributed-system-development/", 
+        "publish-date": "June 1, 2005", 
+        "published-in": "USENIX", 
+        "title": "WiDS: an Integrated Toolkit for Distributed System Development", 
+        "venue": "in HotOS"
+    }
+]
